@@ -1,0 +1,5 @@
+F:\2015\KellTerminal\DataTransfer\obj\Debug\ResolveAssemblyReference.cache
+F:\2015\KellTerminal\DataTransfer\bin\Debug\DataTransfer.dll
+F:\2015\KellTerminal\DataTransfer\bin\Debug\DataTransfer.pdb
+F:\2015\KellTerminal\DataTransfer\obj\Debug\DataTransfer.dll
+F:\2015\KellTerminal\DataTransfer\obj\Debug\DataTransfer.pdb
